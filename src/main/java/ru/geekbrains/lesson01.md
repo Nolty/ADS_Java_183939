@@ -31,7 +31,7 @@ b) O(n^2)
 ```
 
 ```
-с) O(n^2)
+с) O(n)
 
         int n = 10000;
         List<Integer> arrayList = new ArrayList<>();
